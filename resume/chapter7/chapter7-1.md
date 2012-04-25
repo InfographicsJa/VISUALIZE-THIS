@@ -65,7 +65,7 @@
 * いわゆるレーダーチャート [Figure 7-14]
   * Rで[州ごとの犯罪発生率データ](http://datasets.flowingdata.com/crimeRatesByState-formatted.csv)をStar Chartで描く
 * stars()で描く.[Figure 7-15]
-* ラベルとキー付き[Figure 7-16]
-* 半円(上向き)内で描く[Figure 7-17]
-* ナイチンゲールチャート(Polor Area Diagramsとも言う)[Figure 7-18]
+* ラベルとキー付き[Figure 7-16]
+* 半円(上向き)内で描く[Figure 7-17]
+* ナイチンゲールチャート(Polor Area Diagramsとも言う)[Figure 7-18]
   * もし使うのであれば,デフォルトの狂った色使いは変更した方がいい.
