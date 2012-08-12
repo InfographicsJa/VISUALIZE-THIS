@@ -89,7 +89,7 @@
 * Hans Rosling: International Health at Karolinska Institute の教授かつGapminder Foundationのチェア
     * motion chart：例のアレ
 
-* motion chartは時間で動くけれど、性的なバージョン：バブルチャートを作ってみましょう
+* motion chartは時間で動くけれど、静的なバージョン：バブルチャートを作ってみましょう
 
 * バブルチャートは3つ目の軸を表現できる
     * x軸、y軸、バブルのサイズ
